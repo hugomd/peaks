@@ -1,0 +1,44 @@
+{
+  "name": "peaks",
+  "version": "1.0.0",
+  "description": "Gets a random Swiss mountain peak or lists all peaks",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava && xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugomd/peaks.git"
+  },
+  "bin": "cli.js",
+  "files": [
+    "index.js",
+    "cli.js",
+    "peaks.json"
+  ],
+  "keywords": [
+    "swiss",
+    "mountain",
+    "peaks",
+    "list",
+    "name"
+  ],
+  "author": {
+    "name": "Hugo Muller-Downing",
+    "email": "npmjs@hugo.sx",
+    "url": "hu.md"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugomd/peaks/issues"
+  },
+  "homepage": "https://github.com/hugomd/peaks#readme",
+  "dependencies": {
+    "meow": "^3.7.0",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.19.0",
+    "xo": "^0.18.1"
+  }
+}
