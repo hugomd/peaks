@@ -1,6 +1,6 @@
 {
   "name": "peaks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gets a random Swiss mountain peak or lists all peaks",
   "main": "index.js",
   "scripts": {
