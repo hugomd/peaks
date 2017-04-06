@@ -1,6 +1,11 @@
 # peaks
 > Get a random Swiss peak, or all of them
 
+# Installation
+```Bash
+npm install -g peaks
+```
+
 # Usage
 ```Bash
 $ peaks --help
