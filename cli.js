@@ -7,7 +7,7 @@ const cli = meow({
 		'Examples',
 		'  $ peaks',
 		'  Madrisa',
-    '',
+		'',
 		'  $ peaks --all',
 		'  Madrisa',
 		'  Rhinerhorn',
