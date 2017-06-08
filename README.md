@@ -18,7 +18,7 @@ $ peaks --help
 
     $ peaks --all
     Madrisa
-    Rhinerhorn
+    Rinerhorn
     Jakobshorn
     ...
 
